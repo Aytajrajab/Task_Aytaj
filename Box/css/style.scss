@@ -1,0 +1,24 @@
+                        .box1 {
+                            height: 200px;
+                            width: 200px;
+                            border: 1px solid blue;
+                            background-color: green;
+                        }
+                        
+                        .box2 {
+                            height: 100px;
+                            width: 100px;
+                            border: 1px solid rgb(255, 187, 0);
+                            background-color: rgb(224, 238, 224);
+                        }
+                        
+                        .box3 {
+                            height: 200px;
+                            width: 200px;
+                            border: 1px solid rgb(255, 187, 0);
+                            background-color: rgb(224, 238, 224);
+                        }
+                        
+                        body {
+                            display: flex;
+                        }
